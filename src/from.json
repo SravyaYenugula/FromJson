@@ -1,0 +1,19 @@
+{
+"from":[
+{
+    "label":"SKU",
+     "type": "text", 
+     "placeholder": "Enter your SKU "
+},
+{
+    "label":"Name",
+     "type": "text", 
+     "placeholder": "Enter Your Name"
+},
+{
+    "label":"Decription",
+     "type": "text", 
+     "placeholder": "Enter your decription"
+}
+]
+}
